@@ -46,6 +46,7 @@ const logInFacebook = async (page) => {
   // await page.goto("https://facebook.com", { waitUntil: "networkidle2" });
 
   // return page;
+  //git
 };
 
 module.exports = logInFacebook;
